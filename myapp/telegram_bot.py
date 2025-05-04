@@ -1,3 +1,4 @@
+#telegram_bot.py
 import telebot
 from django.conf import settings
 from .models import TelegramSubscriber
